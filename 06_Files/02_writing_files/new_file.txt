@@ -1,0 +1,3 @@
+Hello there!this goes right next to '!', but the next line goes to the next line
+Yey! A line break!
+This line is appended.
